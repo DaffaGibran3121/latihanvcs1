@@ -30,8 +30,15 @@ Untuk membuat file dapat menggunakan Text Editor, Lalu menyimpan filenya pada re
 Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m "nama project"
 Dan yang ada di dalam tanda kutip " " itu nama project kita dan jangan sama setiap kali kita upload project
 > git commit -m "First Project"
-
 ![Screenshot (18)](https://user-images.githubusercontent.com/92356397/137696063-4d0ccfbf-0195-462d-b532-c7dc9b7e0e62.png)
 Untuk menyimpan setiap perubahan pada repository local, gunakan perintah git remote add origin (url)
 > git remote add origin https://github.com/DAFFAGIBRAN3121/latihanvcs1.git
 
+![Screenshot (19)](https://user-images.githubusercontent.com/92356397/137696962-b4e9faab-3570-49a6-8db0-9ee213ab9936.png)
+Untuk mengirim perubahan pada repository local ke server, gunakan perintah git push
+Perintah ini akan meminta Username dan Password pada akun github mu
+> git push -u origin master
+
+![Screenshot (17)](https://user-images.githubusercontent.com/92356397/137690311-1349ceda-b87b-4e20-8e62-14ae5848914a.png)
+Selesai
+## TERIMAKASIH
