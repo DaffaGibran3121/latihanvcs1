@@ -49,4 +49,8 @@ Perintah ini akan meminta Username dan Password pada akun github mu
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/92356397/137690311-1349ceda-b87b-4e20-8e62-14ae5848914a.png)
 Selesai
-## TERIMAKASIH
+ ## TERIMAKASIH
+
+ ![animasi-gif-lucu](https://user-images.githubusercontent.com/92356397/137699425-ccce2052-5df3-4bec-9e0c-8cdd34c84fc6.gif)
+
+
