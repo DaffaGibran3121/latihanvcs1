@@ -31,3 +31,7 @@ Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan pe
 Dan yang ada di dalam tanda kutip " " itu nama project kita dan jangan sama setiap kali kita upload project
 > git commit -m "First Project"
 
+![Screenshot (18)](https://user-images.githubusercontent.com/92356397/137696063-4d0ccfbf-0195-462d-b532-c7dc9b7e0e62.png)
+Untuk menyimpan setiap perubahan pada repository local, gunakan perintah git remote add origin (url)
+> git remote add origin https://github.com/DAFFAGIBRAN3121/latihanvcs1.git
+
