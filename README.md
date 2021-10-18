@@ -2,8 +2,11 @@
 ## TUTORIAL MENGGUNAKAN GIT
 <p align="center">
 
+ ![137566814-9c8c078c-1c3e-475c-b23d-7f4922f74beb](https://user-images.githubusercontent.com/92356397/137698494-f02cc591-2d95-4bcc-9db0-1258d6dd567f.gif)
+
+
  
- <a href="https://api.whatsapp.com/send?phone=6287888660568"><img alt="WhatsApp" src="https://img.shields.io/badge/My-Whatsapp-%23017e40?style=for-the-badge&logo=whatsapp&logoColor=white"/></a></p
+ <a href="https://api.whatsapp.com/send?phone=6287888660568"><img alt="WhatsApp" src="https://img.shields.io/badge/My-Whatsapp-%23017e40?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ## Requirements
 * Git
