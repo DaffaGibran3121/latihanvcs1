@@ -1,7 +1,9 @@
 # latihanvcs1
 ## TUTORIAL MENGGUNAKAN GIT
 <p align="center">
-<a href="https://api.whatsapp.com/send?phone=6287888660568"><img alt="WhatsApp" src="https://img.shields.io/badge/My-Whatsapp-%23017e40?style=for-the-badge&logo=whatsapp&logoColor=white"/></a></p
+
+ 
+ <a href="https://api.whatsapp.com/send?phone=6287888660568"><img alt="WhatsApp" src="https://img.shields.io/badge/My-Whatsapp-%23017e40?style=for-the-badge&logo=whatsapp&logoColor=white"/></a></p
 
 ## Requirements
 * Git
